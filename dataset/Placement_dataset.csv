@@ -1,0 +1,216 @@
+sl_no,gender,High School,Secondary School,Verbal Ability,Internship_Exp,Programming,specialisation,gpa,Analytical Skill,status,salary
+1,M,67,91,58,No,55,Data Science,6.88,58.8,Placed,270000
+2,M,79.33,78.33,77.48,Yes,86.5,Full Stack,7.628,66.28,Placed,200000
+3,M,65,68,64,No,75,Full Stack,6.78,57.8,Placed,250000
+4,M,56,52,52,No,66,Data Science,6.943,59.43,Not Placed,
+5,M,85.8,73.6,73.3,No,96.8,Full Stack,6.55,55.5,Placed,425000
+6,M,55,49.8,67.25,Yes,55,Full Stack,6.158,51.58,Not Placed,
+7,F,46,49.2,79,No,74.28,Full Stack,6.329,53.29,Not Placed,
+8,M,82,64,66,Yes,67,Full Stack,7.214,62.14,Placed,252000
+9,M,73,79,72,No,91.34,Full Stack,7.129,61.29,Placed,231000
+10,M,58,70,61,No,54,Full Stack,6.221,52.21,Not Placed,
+11,M,58,61,60,Yes,62,Data Science,7.085,60.85,Placed,260000
+12,M,69.6,68.4,78.3,Yes,60,Full Stack,7.37,63.7,Placed,250000
+13,F,47,55,65,No,62,Data Science,7.504,65.04,Not Placed,
+14,F,77,87,59,No,68,Full Stack,7.863,68.63,Placed,218000
+15,M,62,47,50,No,76,Data Science,6.496,54.96,Not Placed,
+16,F,65,75,69,Yes,72,Full Stack,7.466,64.66,Placed,200000
+17,M,63,66.2,65.6,Yes,60,Full Stack,7.254,62.54,Placed,300000
+18,F,55,67,64,No,60,Full Stack,7.728,67.28,Not Placed,
+19,F,63,66,64,No,68,Data Science,7.408,64.08,Not Placed,
+20,M,60,67,70,Yes,50.48,Full Stack,8.789,77.89,Placed,236000
+21,M,62,65,66,No,50,Data Science,6.67,56.7,Placed,265000
+22,F,79,76,85,No,95,Full Stack,7.906,69.06,Placed,393000
+23,F,69.8,60.8,72.23,No,55.53,Data Science,7.881,68.81,Placed,360000
+24,F,77.4,60,64.74,Yes,92,Full Stack,7.362,63.62,Placed,300000
+25,M,76.5,97.7,78.86,No,97.4,Full Stack,8.401,74.01,Placed,360000
+26,F,52.58,54.6,50.2,Yes,76,Full Stack,7.533,65.33,Not Placed,
+27,M,71,79,66,Yes,94,Full Stack,6.755,57.55,Placed,240000
+28,M,63,67,66,No,68,Data Science,6.769,57.69,Placed,265000
+29,M,76.76,76.5,67.5,Yes,73.35,Full Stack,7.415,64.15,Placed,350000
+30,M,62,67,58,No,77,Full Stack,6.129,51.29,Not Placed,
+31,F,64,73.5,73,No,52,Data Science,6.67,56.7,Placed,250000
+32,F,67,53,65,No,64,Data Science,6.832,58.32,Not Placed,
+33,F,61,81,66.4,No,50.89,Data Science,7.221,62.21,Placed,278000
+34,F,87,65,81,Yes,88,Full Stack,8.278,72.78,Placed,260000
+35,M,62,51,52,No,68.44,Data Science,7.277,62.77,Not Placed,
+36,F,69,78,72,No,71,Data Science,7.274,62.74,Placed,300000
+37,M,51,44,57,No,64,Full Stack,6.145,51.45,Not Placed,
+38,F,79,76,65.6,No,58,Data Science,6.547,55.47,Placed,320000
+39,F,73,58,66,No,53.7,Data Science,6.686,56.86,Placed,240000
+40,M,81,68,64,No,93,Full Stack,7.256,62.56,Placed,411000
+41,F,78,77,80,No,60,Full Stack,7.672,66.72,Placed,287000
+42,F,74,63.16,65,Yes,65,Data Science,7.976,69.76,Not Placed,
+43,M,49,39,65,No,63,Full Stack,6.121,51.21,Not Placed,
+44,M,87,87,68,No,95,Data Science,7.29,62.9,Placed,300000
+45,F,77,73,81,Yes,89,Full Stack,7.97,69.7,Placed,200000
+46,F,76,64,72,No,58,Data Science,7.653,66.53,Not Placed,
+47,F,70.89,71.98,65.6,No,68,Data Science,8.163,71.63,Not Placed,
+48,M,63,60,57,Yes,78,Full Stack,6.455,54.55,Placed,204000
+49,M,63,62,68,No,64,Full Stack,7.246,62.46,Placed,250000
+50,F,50,37,52,No,65,Data Science,6.611,56.11,Not Placed,
+51,F,75.2,73.2,68.4,No,65,Data Science,7.298,62.98,Placed,200000
+52,M,54.4,61.12,56.2,No,67,Data Science,7.265,62.65,Not Placed,
+53,F,40.89,45.83,53,No,71.2,Data Science,7.549,65.49,Not Placed,
+54,M,80,70,72,No,87,Data Science,8.104,71.04,Placed,450000
+55,F,74,60,69,No,78,Data Science,7.556,65.56,Placed,216000
+56,M,60.4,66.6,65,No,71,Data Science,6.271,52.71,Placed,220000
+57,M,63,71.4,61.4,No,68,Full Stack,7.688,66.88,Placed,240000
+58,M,68,76,74,No,80,Full Stack,7.359,63.59,Placed,360000
+59,M,74,62,68,No,74,Full Stack,6.799,57.99,Placed,268000
+60,M,52.6,65.58,72.11,No,57.6,Full Stack,6.666,56.66,Placed,265000
+61,M,74,70,72,Yes,60,Full Stack,6.724,57.24,Placed,260000
+62,M,84.2,73.4,66.89,No,61.6,Full Stack,7.248,62.48,Placed,300000
+63,F,86.5,64.2,67.4,No,59,Full Stack,6.969,59.69,Placed,240000
+64,M,61,70,64,No,68.5,Data Science,6.95,59.5,Not Placed,
+65,M,80,73,75,No,61,Full Stack,6.878,58.78,Placed,240000
+66,M,54,47,57,No,89.69,Data Science,6.71,57.1,Not Placed,
+67,M,83,74,66,No,68.92,Data Science,6.846,58.46,Placed,275000
+68,M,80.92,78.5,67,No,68.71,Full Stack,7.099,60.99,Placed,275000
+69,F,69.7,47,72.7,No,79,Data Science,6.924,59.24,Not Placed,
+70,M,73,73,66,Yes,70,Full Stack,7.807,68.07,Placed,275000
+71,M,82,61,62,No,89,Full Stack,7.545,65.45,Placed,360000
+72,M,75,70.29,71,No,95,Full Stack,7.694,66.94,Placed,240000
+73,M,84.86,67,78,No,95.5,Full Stack,7.853,68.53,Placed,240000
+74,M,64.6,83.83,71.72,No,86,Full Stack,6.975,59.75,Placed,218000
+75,M,56.6,64.8,70.2,No,84.27,Full Stack,7.72,67.2,Placed,336000
+76,F,59,62,77.5,No,74,Data Science,7.7,67,Not Placed,
+77,F,66.5,70.4,71.93,No,61,Full Stack,7.427,64.27,Placed,230000
+78,M,64,80,65,Yes,69,Full Stack,6.765,57.65,Placed,500000
+79,M,84,90.9,64.5,No,86.04,Full Stack,6.942,59.42,Placed,270000
+80,F,69,62,66,No,75,Data Science,7.799,67.99,Not Placed,
+81,F,69,62,69,Yes,67,Data Science,7.235,62.35,Placed,240000
+82,M,81.7,63,67,Yes,86,Full Stack,8.02,70.2,Placed,300000
+83,M,63,67,74,No,82,Full Stack,7.044,60.44,Not Placed,
+84,M,84,79,68,Yes,84,Full Stack,7.669,66.69,Placed,300000
+85,M,70,63,70,Yes,55,Full Stack,7.2,62,Placed,300000
+86,F,83.84,89.83,77.2,Yes,78.74,Full Stack,8.618,76.18,Placed,400000
+87,M,62,63,64,No,67,Full Stack,6.703,57.03,Placed,220000
+88,M,59.6,51,60,No,75,Data Science,6.908,59.08,Not Placed,
+89,F,66,62,73,No,58,Data Science,7.436,64.36,Placed,210000
+90,F,84,75,69,Yes,62,Data Science,7.236,62.36,Placed,210000
+91,F,85,90,82,No,92,Full Stack,7.803,68.03,Placed,300000
+92,M,52,57,50.8,No,67,Data Science,7.279,62.79,Not Placed,
+93,F,60.23,69,66,No,72,Full Stack,6.947,59.47,Placed,230000
+94,M,52,62,54,No,72,Data Science,6.541,55.41,Not Placed,
+95,M,58,62,64,No,53.88,Full Stack,6.497,54.97,Placed,260000
+96,M,73,78,65,Yes,95.46,Full Stack,7.216,62.16,Placed,420000
+97,F,76,70,76,Yes,66,Full Stack,7.444,64.44,Placed,300000
+98,F,70.5,62.5,61,No,93.91,Full Stack,7.903,69.03,Not Placed,
+99,F,69,73,65,No,70,Full Stack,6.731,57.31,Placed,220000
+100,M,54,82,63,No,50,Full Stack,6.947,59.47,Not Placed,
+101,F,45,57,58,Yes,56.39,Data Science,7.495,64.95,Not Placed,
+102,M,63,72,68,No,78,Data Science,7.044,60.44,Placed,380000
+103,F,77,61,68,Yes,57.5,Full Stack,7.131,61.31,Placed,300000
+104,M,73,78,73,Yes,85,Data Science,7.583,65.83,Placed,240000
+105,M,69,63,65,Yes,55,Data Science,6.823,58.23,Placed,360000
+106,M,59,64,58,No,85,Data Science,6.53,55.3,Not Placed,
+107,M,61.08,50,54,No,71,Full Stack,7.569,65.69,Not Placed,
+108,M,82,90,83,No,80,Data Science,8.352,73.52,Placed,200000
+109,M,61,82,69,No,84,Full Stack,6.831,58.31,Placed,300000
+110,M,52,63,65,Yes,86,Data Science,6.609,56.09,Not Placed,
+111,F,69.5,70,72,No,57.2,Data Science,6.48,54.8,Placed,250000
+112,M,51,54,61,No,60,Data Science,7.064,60.64,Not Placed,
+113,M,58,61,61,No,58,Data Science,6.394,53.94,Placed,250000
+114,F,73.96,79,67,No,72.15,Full Stack,7.308,63.08,Placed,280000
+115,M,65,68,69,No,53.7,Data Science,6.501,55.01,Placed,250000
+116,F,73,63,66,No,89,Full Stack,7.05,60.5,Placed,216000
+117,M,68.2,72.8,66.6,Yes,96,Full Stack,8.085,70.85,Placed,300000
+118,M,77,75,73,No,80,Full Stack,7.705,67.05,Placed,240000
+119,M,76,80,78,Yes,97,Data Science,8.048,70.48,Placed,276000
+120,M,60.8,68.4,64.6,Yes,82.66,Full Stack,7.434,64.34,Placed,940000
+121,M,58,40,59,No,73,Data Science,6.881,58.81,Not Placed,
+122,F,64,67,69.6,Yes,55.67,Data Science,8.149,71.49,Placed,250000
+123,F,66.5,66.8,69.3,Yes,80.4,Full Stack,8.1,71,Placed,236000
+124,M,74,59,73,Yes,60,Data Science,6.67,56.7,Placed,240000
+125,M,67,71,64.33,Yes,64,Data Science,7.126,61.26,Placed,250000
+126,F,84,73,73,No,75,Full Stack,8.333,73.33,Placed,350000
+127,F,79,61,75.5,Yes,70,Full Stack,7.82,68.2,Placed,210000
+128,F,72,60,69,No,55.5,Data Science,6.84,58.4,Placed,250000
+129,M,80.4,73.4,77.72,Yes,81.2,Data Science,8.626,76.26,Placed,400000
+130,M,76.7,89.7,66,Yes,90,Full Stack,7.855,68.55,Placed,250000
+131,M,62,65,60,No,84,Full Stack,7.415,64.15,Not Placed,
+132,F,74.9,57,62,Yes,80,Full Stack,7.078,60.78,Placed,360000
+133,M,67,68,64,Yes,74.4,Data Science,6.349,53.49,Placed,300000
+134,M,73,64,77,Yes,65,Data Science,7.098,60.98,Placed,250000
+135,F,77.44,92,72,Yes,94,Full Stack,7.713,67.13,Placed,250000
+136,F,72,56,69,No,55.6,Data Science,7.563,65.63,Placed,200000
+137,F,47,59,64,No,78,Full Stack,7.158,61.58,Not Placed,
+138,M,67,63,72,No,56,Data Science,7.041,60.41,Placed,225000
+139,F,82,64,73,Yes,96,Full Stack,8.177,71.77,Placed,250000
+140,M,77,70,59,Yes,58,Full Stack,6.443,54.43,Placed,220000
+141,M,65,64.8,69.5,Yes,56,Full Stack,6.694,56.94,Placed,265000
+142,M,66,64,60,No,60,Data Science,7.19,61.9,Not Placed,
+143,M,85,60,73.43,Yes,60,Full Stack,7.129,61.29,Placed,260000
+144,M,77.67,64.89,70.67,No,89,Full Stack,7.039,60.39,Placed,300000
+145,M,52,50,61,No,60,Full Stack,6.852,58.52,Not Placed,
+146,M,89.4,65.66,71.25,No,72,Data Science,7.323,63.23,Placed,400000
+147,M,62,63,66,No,85,Data Science,6.514,55.14,Placed,233000
+148,M,70,74,65,No,83,Full Stack,7.228,62.28,Placed,300000
+149,F,77,86,56,No,57,Full Stack,7.408,64.08,Placed,240000
+150,M,44,58,55,Yes,64.25,Data Science,6.854,58.54,Not Placed,
+151,M,71,58.66,58,Yes,56,Full Stack,7.13,61.3,Placed,690000
+152,M,65,65,75,No,83,Full Stack,6.887,58.87,Placed,270000
+153,F,75.4,60.5,84,No,98,Full Stack,7.525,65.25,Placed,240000
+154,M,49,59,65,Yes,86,Full Stack,7.248,62.48,Placed,340000
+155,M,53,63,60,Yes,70,Full Stack,6.32,53.2,Placed,250000
+156,M,51.57,74.66,59.9,Yes,56.15,Data Science,7.599,65.99,Not Placed,
+157,M,84.2,69.4,65,Yes,80,Data Science,6.272,52.72,Placed,255000
+158,M,66.5,62.5,60.9,No,93.4,Full Stack,6.503,55.03,Placed,300000
+159,M,67,63,64,No,60,Full Stack,7.187,61.87,Not Placed,
+160,M,52,49,58,No,62,Data Science,7.059,60.59,Not Placed,
+161,M,87,74,65,Yes,75,Data Science,8.229,72.29,Placed,300000
+162,M,55.6,51,57.5,No,57.63,Data Science,7.272,62.72,Not Placed,
+163,M,74.2,87.6,77.25,Yes,75.2,Full Stack,7.606,66.06,Placed,285000
+164,M,63,67,64,No,75,Full Stack,7.646,66.46,Placed,500000
+165,F,67.16,72.5,63.35,No,53.04,Full Stack,7.552,65.52,Placed,250000
+166,F,63.3,78.33,74,No,80,Full Stack,8.456,74.56,Not Placed,
+167,M,62,62,60,Yes,63,Data Science,6.238,52.38,Placed,240000
+168,M,67.9,62,67,Yes,58.1,Full Stack,8.571,75.71,Not Placed,
+169,F,48,51,58,Yes,60,Data Science,6.879,58.79,Not Placed,
+170,M,59.96,42.16,61.26,No,54.48,Data Science,7.548,65.48,Not Placed,
+171,F,63.4,67.2,60,No,58.06,Data Science,7.928,69.28,Not Placed,
+172,M,80,80,72,Yes,63.79,Full Stack,7.604,66.04,Placed,290000
+173,M,73,58,56,No,84,Data Science,6.264,52.64,Placed,300000
+174,F,52,52,55,No,67,Data Science,6.932,59.32,Not Placed,
+175,M,73.24,50.83,64.27,Yes,64,Full Stack,7.623,66.23,Placed,500000
+176,M,63,62,65,No,87.5,Data Science,7.069,60.69,Not Placed,
+177,F,59,60,56,No,55,Data Science,6.79,57.9,Placed,220000
+178,F,73,97,79,Yes,89,Full Stack,8.081,70.81,Placed,650000
+179,M,68,56,68,No,73,Data Science,7.807,68.07,Placed,350000
+180,F,77.8,64,64.2,No,75.5,Data Science,8.214,72.14,Not Placed,
+181,M,65,71.5,62.8,Yes,57,Full Stack,6.66,56.6,Placed,265000
+182,M,62,60.33,64.21,No,63,Data Science,7.002,60.02,Not Placed,
+183,M,52,65,57,Yes,75,Full Stack,6.981,59.81,Not Placed,
+184,M,65,77,69,No,60,Data Science,7.182,61.82,Placed,276000
+185,F,56.28,62.83,59.79,No,60,Data Science,6.729,57.29,Not Placed,
+186,F,88,72,78,No,82,Data Science,8.143,71.43,Placed,252000
+187,F,52,64,61,No,55,Full Stack,7.293,62.93,Not Placed,
+188,M,78.5,65.5,67,Yes,95,Full Stack,7.486,64.86,Placed,280000
+189,M,61.8,47,54.38,No,57,Full Stack,6.613,56.13,Not Placed,
+190,F,54,77.6,69.2,No,95.65,Full Stack,7.694,66.94,Not Placed,
+191,F,64,70.2,61,No,50,Full Stack,7.25,62.5,Not Placed,
+192,M,67,61,72,No,72,Full Stack,7.101,61.01,Placed,264000
+193,M,65.2,61.4,64.8,Yes,93.4,Full Stack,6.734,57.34,Placed,270000
+194,F,60,63,56,Yes,80,Data Science,6.663,56.63,Placed,300000
+195,M,52,55,56.3,No,59,Full Stack,7.474,64.74,Not Placed,
+196,M,66,76,72,Yes,84,Data Science,6.895,58.95,Placed,275000
+197,M,72,63,77.5,Yes,78,Full Stack,6.448,54.48,Placed,250000
+198,F,83.96,53,91,No,59.32,Data Science,7.971,69.71,Placed,260000
+199,F,67,70,65,No,88,Data Science,8.196,71.96,Not Placed,
+200,M,69,65,57,No,73,Data Science,6.58,55.8,Placed,265000
+201,M,69,60,65,No,87.55,Full Stack,6.281,52.81,Placed,300000
+202,M,54.2,63,58,No,79,Data Science,6.844,58.44,Not Placed,
+203,M,70,63,66,No,61.28,Data Science,7.011,60.11,Placed,240000
+204,M,55.68,61.33,56.87,No,66,Data Science,6.83,58.3,Placed,260000
+205,F,74,73,73,Yes,80,Full Stack,7.769,67.69,Placed,210000
+206,M,61,62,65,No,62,Full Stack,6.681,56.81,Placed,250000
+207,M,41,42,60,No,97,Full Stack,6.339,53.39,Not Placed,
+208,M,83.33,78,61,Yes,88.56,Full Stack,8.155,71.55,Placed,300000
+209,F,43,60,65,No,92.66,Data Science,7.292,62.92,Not Placed,
+210,M,62,72,65,No,67,Full Stack,6.649,56.49,Placed,216000
+211,M,80.6,82,77.6,No,91,Full Stack,8.449,74.49,Placed,400000
+212,M,58,60,72,No,74,Full Stack,6.362,53.62,Placed,275000
+213,M,67,67,73,Yes,59,Full Stack,7.972,69.72,Placed,295000
+214,F,74,66,58,No,70,Data Science,7.023,60.23,Placed,204000
+215,M,62,58,53,No,89,Data Science,7.022,60.22,Not Placed,
